@@ -15,7 +15,7 @@ presented.
 ![GitHub Logo](/Images/Goal1.jpg)
 ![GitHub Logo](/Images/Goal2.jpg)
 ![GitHub Logo](/Images/ValueFGoal1.jpg)
-![Value function for the first goal](url)
+![Value function for the first goal]
 ![GitHub Logo](/Images/ValueFGoal2.jpg)
 ![GitHub Logo](/Images/traj1.jpg)
 ![GitHub Logo](/Images/traj2.jpg)
