@@ -12,3 +12,11 @@ are derived for this purpose. Robot’s trajectories for each policy,
 plots of value functions and the results of simulation are
 presented.
 
+![GitHub Logo](/Images/Goal1.jpg)
+![GitHub Logo](/Images/Goal2.jpg)
+![GitHub Logo](/Images/ValueF Goal1.jpg)
+![GitHub Logo](/Images/ValueF Goal2.jpg)
+![GitHub Logo](/Images/traj1.jpg)
+![GitHub Logo](/Images/traj2.jpg)
+
+
