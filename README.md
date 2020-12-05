@@ -18,7 +18,6 @@ Value function for the first goal
 ![GitHub Logo](/Images/ValueFGoal1.jpg)
 Value function for the second goal
 ![GitHub Logo](/Images/ValueFGoal2.jpg)
-Trajectories to reach the first goal from different starting points
 ![GitHub Logo](/Images/traj1.jpg)
 Trajectories to reach the second goal from different starting points
 ![GitHub Logo](/Images/traj2.jpg)
