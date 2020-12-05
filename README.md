@@ -15,6 +15,7 @@ presented.
 ![GitHub Logo](/Images/Goal1.jpg)
 ![GitHub Logo](/Images/Goal2.jpg)
 ![GitHub Logo](/Images/ValueFGoal1.jpg)
+Format: ![Alt Text](url)
 ![GitHub Logo](/Images/ValueFGoal2.jpg)
 ![GitHub Logo](/Images/traj1.jpg)
 ![GitHub Logo](/Images/traj2.jpg)
